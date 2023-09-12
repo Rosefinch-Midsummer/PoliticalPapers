@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [郡縣論](./郡縣論.md)
+- [破邪論](./破邪論.md)
